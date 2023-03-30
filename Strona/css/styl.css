@@ -1,0 +1,21 @@
+p {
+  color: rgb(255, 0, 255);
+font-size: 24px
+}
+
+body {
+  background-color: rgb(0, 255, 0);
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+a {
+  color: rgb(255, 0, 0,);
+}
+
+.abc {
+  color: rgb(255, 0, 0);
+}
+
+table {
+  text-align: center;
+}
